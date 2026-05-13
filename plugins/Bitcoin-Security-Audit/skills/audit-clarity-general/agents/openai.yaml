@@ -1,0 +1,4 @@
+interface:
+  display_name: "Clarity Smart Contract General Audit"
+  short_description: "Checklist for Clarity authentication model, token transfer safety, post-condition coverage, error handling, and inter-contract call security on Stacks."
+  default_prompt: "Audit this Clarity smart contract for tx-sender vs contract-caller confusion, as-contract principal elevation, ft-transfer/nft-transfer authorization gaps, SIP-009/010/013 compliance, list duplication attacks, post-condition blind spots, unwrap-panic DoS, map-set vs map-insert semantics, inter-contract call safety, admin governance, block-timing assumptions, and bridge principal encoding."

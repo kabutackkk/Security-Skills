@@ -16,12 +16,14 @@ This skill has not been uploaded to the Claude Marketplace yet. Please download 
 
 ### Smart Contract Security — Auditing
 
-*Per-chain audit plugins (Bitcoin, EVM, and more) are planned. Check back for updates.*
+| Plugin | Description |
+|--------|-------------|
+| [Bitcoin Security Audit](plugins/Bitcoin-Security-Audit/) | Structured security audit skills and checklists for the Bitcoin DEFI ecosystem — covering Ordinals/BRC-20/Runes marketplaces, BTC staking protocols (Babylon), Clarity smart contracts (Stacks), PSBT signing flows (BIP-174/370), and Lightning Network dApps.  |
 
 ## Roadmap
 
 This marketplace is actively growing. Planned additions include:
-- Audit plugins for Bitcoin, EVM, and other chains
+- Audit plugins for EVM and other chains
 - Expanded coverage in the secure-development plugin for additional platforms
 
 Have a request? [Open an issue](../../issues/new) to suggest coverage.
