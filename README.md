@@ -16,12 +16,14 @@ This skill has not been uploaded to the Claude Marketplace yet. Please download 
 
 ### Smart Contract Security — Auditing
 
-*Per-chain audit plugins (Bitcoin, EVM, and more) are planned. Check back for updates.*
+| Plugin | Description |
+|--------|-------------|
+| [Security Audit](plugins/Security-Audit/) | Structured security audit skills and checklists for DAML smart contracts on Canton and the Bitcoin ecosystem, including Clarity contracts, PSBT signing flows, Ordinals/BRC-20/Runes marketplaces, BTC staking protocols, and Lightning Network dApps. |
 
 ## Roadmap
 
 This marketplace is actively growing. Planned additions include:
-- Audit plugins for Bitcoin, EVM, and other chains
+- Audit plugins for EVM and other chains
 - Expanded coverage in the secure-development plugin for additional platforms
 
 Have a request? [Open an issue](../../issues/new) to suggest coverage.
@@ -33,4 +35,3 @@ Contributions, issue reports, and suggestions are welcome. See individual plugin
 ## License
 
 This project is licensed under the [Apache-2.0](https://spdx.org/licenses/Apache-2.0.html).
-

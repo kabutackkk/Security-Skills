@@ -1,0 +1,4 @@
+interface:
+  display_name: "PSBT Security Audit"
+  short_description: "Checklist for PSBT construction, sighash safety, UTXO verification, Taproot trust models, and MuSig2 nonce security."
+  default_prompt: "Audit this Bitcoin implementation for PSBT security risks including sighash flag misuse, input/output injection, UTXO amount verification, fee manipulation, Taproot key-path vs script-path trust model confusion, MuSig2 nonce reuse, partial signature validation, and finalization integrity."

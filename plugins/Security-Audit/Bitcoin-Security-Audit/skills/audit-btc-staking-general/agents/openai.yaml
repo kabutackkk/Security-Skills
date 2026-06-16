@@ -1,0 +1,4 @@
+interface:
+  display_name: "BTC Staking Audit"
+  short_description: "Checklist for Babylon-style BTC staking security including covenants, EOTS slashing, timelock unbonding, and bridge checkpoints."
+  default_prompt: "Audit this Bitcoin staking implementation for security risks including covenant enforcement via pre-signed transactions, EOTS finality gadget correctness, slashing transaction enforceability, timelock bypass vulnerabilities, delegation trust boundaries, reward distribution integrity, bridge checkpoint verification, and stake withdrawal safety."

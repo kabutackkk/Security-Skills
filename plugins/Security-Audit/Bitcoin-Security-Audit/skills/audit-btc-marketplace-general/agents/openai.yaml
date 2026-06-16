@@ -1,0 +1,4 @@
+interface:
+  display_name: "BTC Marketplace Audit"
+  short_description: "Checklist for Ordinals/BRC-20/Runes marketplace security including listing PSBTs, indexer trust, snipping attacks, and inscription UTXO management."
+  default_prompt: "Audit this Bitcoin marketplace implementation for security risks including listing PSBT sighash misuse, inscription UTXO cardinal/ordinal confusion, BRC-20 balance validation, Runes runestone integrity, snipping and front-running attacks, indexer trust assumptions, fee and royalty manipulation, escrow safety, and API exposure of signed PSBTs."

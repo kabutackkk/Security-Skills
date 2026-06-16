@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lightning Network dApp Security Audit"
+  short_description: "Checklist for LN dApp preimage safety, timelock engineering, HTLC lifecycle, swap atomicity, channel state, and Taproot/PTLC readiness."
+  default_prompt: "Audit this Lightning Network dApp implementation for security risks including preimage exposure, timelock misconfiguration, HTLC state machine flaws, submarine/reverse swap non-atomicity, force-close fee budget gaps, replacement cycling, watchtower reliance, revocation secret handling, client-side key exfiltration, and Taproot channel or PTLC adaptor signature weaknesses."
