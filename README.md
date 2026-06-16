@@ -18,7 +18,7 @@ This skill has not been uploaded to the Claude Marketplace yet. Please download 
 
 | Plugin | Description |
 |--------|-------------|
-| [Bitcoin Security Audit](plugins/Bitcoin-Security-Audit/) | Structured security audit skills and checklists for the Bitcoin DEFI ecosystem — covering Ordinals/BRC-20/Runes marketplaces, BTC staking protocols (Babylon), Clarity smart contracts (Stacks), PSBT signing flows (BIP-174/370), and Lightning Network dApps.  |
+| [Security Audit](plugins/Security-Audit/) | Structured security audit skills and checklists for DAML smart contracts on Canton and the Bitcoin ecosystem, including Clarity contracts, PSBT signing flows, Ordinals/BRC-20/Runes marketplaces, BTC staking protocols, and Lightning Network dApps. |
 
 ## Roadmap
 
@@ -35,4 +35,3 @@ Contributions, issue reports, and suggestions are welcome. See individual plugin
 ## License
 
 This project is licensed under the [Apache-2.0](https://spdx.org/licenses/Apache-2.0.html).
-

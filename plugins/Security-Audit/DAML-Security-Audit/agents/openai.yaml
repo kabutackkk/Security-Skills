@@ -1,0 +1,4 @@
+interface:
+  display_name: "DAML Canton Audit"
+  short_description: "Version-aware DAML/Canton audit for auth, privacy, lifecycle, settlement, upgrades, and risk rating."
+  default_prompt: "Use $DAML-Security-Audit to audit this DAML/Canton implementation for workflow authorization flaws, privacy leaks, weak reference binding, lifecycle and settlement bugs, upgrade hazards, off-ledger trust assumptions, and DAML-version-specific checkpoint applicability."
